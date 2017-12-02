@@ -22,7 +22,8 @@
     "koa-views": "^5.2.1",
     "pug": "^2.0.0-rc.1",
     "superagent": "^3.8.1",
-    "superagent-charset": "^1.2.0"
+    "superagent-charset": "^1.2.0",
+    "uglify-js": "^3.2.0"
   },
   "devDependencies": {
     "koa-liveload": "0.0.2",
